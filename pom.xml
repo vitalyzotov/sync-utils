@@ -32,6 +32,7 @@
                     <gitFlowConfig>
                         <productionBranch>master</productionBranch>
                         <developmentBranch>master</developmentBranch>
+                        <origin>github</origin>
                     </gitFlowConfig>
                 </configuration>
             </plugin>
